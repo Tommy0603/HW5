@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\acer\Desktop\HW5\6.33\source\Main.cpp(60): warning C4715: 'binarySearch': 不是所有控制路徑都傳回值
+  HW.vcxproj -> C:\Users\acer\Desktop\HW5\6.33\HW\Debug\HW.exe
